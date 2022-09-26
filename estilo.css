@@ -1,0 +1,112 @@
+body{
+	font-family: "Verdana", sans-serif;
+	font-size: 12pt;
+	background-color: #dce3e7;
+	background-image: linear-gradient(to left, #acd6ee, #2e66a1 );
+}
+
+p{
+	text-align: left;
+	margin-left: 20px;
+
+}
+
+h2{
+	color: #000000;
+	text-align: center;
+	margin-top: 50px;
+	padding-bottom: 30px;
+	font-family: "Verdana", sans-serif;
+}
+
+.container{
+	box-shadow: 5px 5px 10px;
+	border-radius: 9px;
+  	background-color: #f6fafd;
+  	padding: 15px;
+	padding-bottom: 100px;
+  	margin: 20px;
+	margin-top: 100px;
+	width: 50%;
+  	max-width: 1200px;
+  	margin: 0 auto;
+  	margin-top: 50px;
+}
+form{
+	padding-left: 10px;
+	text-align: center;
+}
+hr{
+	margin-left: 200px;
+	margin-right: 200px;
+}
+input[type=submit]{
+	width: 10%;
+	border-radius: 4px;
+	border: none;
+	padding: 5px 8px;
+	background-image: linear-gradient(to left, #7fb4d3, #6990b9);
+	color: #fff;
+	margin-left: 150px;
+}
+select{
+	width: 28%;
+	margin: 15px;
+	border-radius: 5px;
+	padding: 8px 15px;
+  	border: none;
+  	background-color: #c9c8c6;
+}
+option{
+	width: 28%;
+	margin: 5px;
+	border-radius: 5px;
+	padding: 8px 15px;
+	border: none;
+	background-color: #F5EFE6
+	}
+input[type=text] {
+  	padding: 5px 8px;
+  	margin: 15px;
+  	width: 25%;
+  	border-radius: 5px;
+}
+input[type=number]{
+  	border-radius: 5px;
+  	padding: 5px 8px;
+  	margin: 15px;
+  	width: 25%;
+  
+}
+input[type=text], input[type=number]{
+  	border: 2px solid #11487c;
+}
+
+table{
+	margin: 20px;
+	width: 20%;
+}
+
+td{
+	padding: 10px;
+	text-align: center;
+	background-color: #E4E3E3;
+}
+th,td{
+	padding: 5px;
+}
+th{
+	padding: 10px;
+	background-color: #bbd3ec;
+}
+a{
+	color: #030303;
+	margin-left: 20px;
+}
+a:hover{
+	color: #11487c;
+}
+
+.form{
+	text-align: center;
+}
